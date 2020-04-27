@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: moon-penny.top
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: Win-cent
-language: zh-Hans
+author: John Doe
+language: en
 timezone: ''
 
 # URL
@@ -22,7 +22,7 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: sourceeh
+source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Random
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
